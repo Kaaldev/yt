@@ -1,0 +1,6 @@
+{
+    "name": "ytdl",
+    "description": "Youtube and Facebook Downloader.",
+    "repository": "https://github.com/kaaldev/yt",
+    "keywords": ["node", "express", "static"]
+}
